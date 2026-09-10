@@ -1,18 +1,90 @@
-# 💫 About Me:
-🔭 I’m currently working on my final degree project, a web platform for a gym<br><br>💼 I’m looking to collaborate on: projects with JavaScript, HTML and CSS<br><br>🤝 I’m looking for help with integration of APIs in web applications<br><br>🌱 I’m currently learning PHP, JavaScript avanzado, Tailwind CSS and Docker<br><br>🔎 Fun fact: I like to listen to music when I program, it makes me think better
+# 📚 MaxManga
 
+**Aplicación móvil para lectura de manga en PDF y comunidad con chat en tiempo real.**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jmolina.13) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmolina.13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jaime Molina Granados) 
+MaxManga es un proyecto desarrollado como **Trabajo de Fin de Grado del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JaimeMGR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JaimeMGR&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeMGR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+El proyecto está compuesto por dos aplicaciones Android integradas:
 
----
-[![](https://visitcount.itsvg.in/api?id=JaimeMGR&icon=0&color=13)](https://visitcount.itsvg.in)
+- **MaxManga**: aplicación orientada a la lectura y gestión de libros en formato PDF.
+- **MaxManga Community**: aplicación destinada a la comunicación entre usuarios mediante un sistema de chat en tiempo real.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ Funcionalidades
+
+### 📖 MaxManga
+
+La aplicación permite a los usuarios:
+
+- Lectura de archivos PDF.
+- Gestión y organización de categorías de libros.
+- Contador de visualizaciones y descargas.
+- Añadir libros a favoritos.
+- Publicar comentarios en las obras.
+
+### 💬 MaxManga Community
+
+La aplicación incorpora funcionalidades orientadas a la comunicación:
+
+- Chat en tiempo real.
+- Envío y recepción de mensajes de texto e imágenes.
+- Gestión de perfiles de usuario.
+- Autenticación mediante Google.
+- Verificación de cuentas.
+- Anuncios.
+- Notificaciones emergentes.
+
+## 🔗 Integración entre aplicaciones
+
+MaxManga y MaxManga Community están diseñadas para funcionar de forma integrada.
+
+Los usuarios pueden acceder a ambas aplicaciones utilizando la misma cuenta y compartir información entre ellas, proporcionando una experiencia unificada.
+
+## 🛠️ Tecnologías utilizadas
+
+| Tecnología | Uso |
+|---|---|
+| **Kotlin** | Desarrollo de las aplicaciones Android |
+| **Android Studio** | Entorno de desarrollo |
+| **Firebase** | Gestión de datos, usuarios y comunicación en tiempo real |
+| **JSON** | Gestión e intercambio de datos |
+| **XML** | Diseño y configuración de la interfaz |
+| **GitHub** | Control y gestión del código fuente |
+
+## 🏗️ Arquitectura y flujo de datos
+
+### MaxManga
+
+Los datos relacionados con libros y categorías se gestionan mediante **Firebase**, permitiendo trabajar con la información necesaria para la lectura y gestión de archivos PDF.
+
+### MaxManga Community
+
+Firebase se utiliza para almacenar y gestionar en tiempo real los mensajes y perfiles de usuario, permitiendo la comunicación instantánea entre usuarios.
+
+## 📱 Aplicaciones
+
+### MaxManga
+Aplicación centrada en la lectura de contenido en formato PDF y la gestión de una biblioteca de libros.
+
+### MaxManga Community
+Aplicación complementaria enfocada en la comunicación y comunidad de usuarios mediante chat en tiempo real.
+
+## 🎯 Objetivos del proyecto
+
+- Desarrollar aplicaciones móviles para la plataforma Android.
+- Crear una solución especializada para aficionados al manga.
+- Implementar lectura y gestión de archivos PDF.
+- Desarrollar un sistema de comunicación en tiempo real.
+- Integrar ambas aplicaciones mediante un sistema común de usuarios y datos.
+
+## ⚠️ Limitaciones y retos
+
+Durante el desarrollo se abordaron diferentes retos técnicos, especialmente relacionados con:
+
+- Integración de Firebase con funcionalidades avanzadas.
+- Rendimiento en dispositivos Android más antiguos.
+
+## 📌 Proyecto académico
+
+**Trabajo de Fin de Grado — Desarrollo de Aplicaciones Multiplataforma (DAM)**
+
+**Autor:** Jaime Molina Granados
